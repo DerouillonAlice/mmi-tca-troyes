@@ -1,6 +1,7 @@
 # 🚀 **Projet Symfony CI/CD : Exercice Pratique**
 
 ---
+test
 
 ## 📋 **Introduction**
 
